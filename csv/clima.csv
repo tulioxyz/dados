@@ -3,7 +3,8 @@ Nublado,Ventando,Frio,Chao_Molhado,Resultado
 1,0,1,0,Ensolarado
 1,1,0,0,Ensolarado
 1,0,0,0,Ensolarado
-1,1,1,1,Chuvoso
+0,0,0,0,Ensolarado
 1,1,0,1,Chuvoso
 1,0,1,1,Chuvoso
 0,1,1,1,Chuvoso
+1,1,1,1,Chuvoso
