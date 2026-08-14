@@ -1,0 +1,11 @@
+Estudou,Fez_Atividades,Assistiu_Aulas,Faltou_Muito,Resultado
+1,0,1,0,Aprovado
+1,1,1,0,Aprovado
+0,0,1,1,Reprovado
+1,0,0,1,Reprovado
+0,1,1,0,Aprovado
+0,0,0,1,Reprovado
+1,1,0,0,Aprovado
+0,1,0,1,Reprovado
+1,1,1,1,Aprovado
+0,0,1,0,Aprovado
